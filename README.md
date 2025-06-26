@@ -1,6 +1,12 @@
 # GOOGLE MAPS                <img width="227" alt="Screenshot 2025-06-25 202214" src="https://github.com/user-attachments/assets/3fd0deee-9a14-4ee5-abc1-d6f3193246ce" />  
----------
-## 1. Get Directions in Google Maps  
+---------  
+## TOC 
+
+1. [Directions](#directions)
+2. [Parking](#parking)
+----------------   
+## DIRECTIONS
+### Get Directions in Google Maps  
   - Open the google maps website <https://www.google.com/maps>
   - Enter your destination in search bar, this will show insights of the location
   - Select the directions
@@ -13,8 +19,10 @@
     - Cycling
 <img width="317" alt="Screenshot 2025-06-25 212407" src="https://github.com/user-attachments/assets/af288d02-8d79-42ca-958f-8a6ef53bd9f4" />
 
-----------
-## 2. Find and Save Parking Locations  
+----------  
+
+## PARKING
+### 2. Find and Save Parking Locations  
 - Before you start driving, you can look up places to park your car.
 - After you reach your destination, you can save your parking location so that you can find it later.
 ----------
